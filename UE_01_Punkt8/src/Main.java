@@ -9,6 +9,8 @@ import java.util.regex.Pattern;
  * Discripton: Dieses Programm prüft ob eine URL richtig eingegeben wurde
  */
 public class Main {
+
+    // Diese Kommentar wurde mit einem Branch hinzugefügt
     public static void main(String[] args) {
         Scanner eing = new Scanner(System.in);
 
